@@ -1,7 +1,6 @@
-# linia
-### linia - это программа которая выводит геометрические фигуры из символов с капелькой интерактива.
-#### запуск проги(linux,termux)(компилятор g++(gcc) чтоб поменять отредактируйте makefile) 
-- git clone https://github.com/asya1098/linia
-- cd linia
-- make
-- ./linia 
+# Vinia
+## fork of asya1098/linia. rewritten on V
+### Building:
+v vinia.v
+cp vinia /usr/bin
+## Will be moved to codeberg.org/diabloblanco/vinia
